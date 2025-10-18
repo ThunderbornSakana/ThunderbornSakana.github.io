@@ -140,3 +140,8 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+table.section-rows {
+  border-spacing: 0 4px !important; /* keep your tighter row spacing */
+  margin-bottom: 14px;              /* adds breathing room after each section */
+}
